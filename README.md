@@ -24,7 +24,7 @@
 | Project | Description |
 |--------|-------------|
 | 🔧 **FuelEfficiencyPreditor** | AI-based fuel prediction app using CoreML and real-time user data |
-| 📱 **DFEBaseApp** | Dynamic Form Engine built with SwiftUI and reusable architecture |
+| 📱 **Dfanx** *(WIP)* | Sports |
 | 📊 **DataInsightKit** *(WIP)* | Toolkit for integrating ML and analytics into iOS apps |
 | ⚙️ **CI/CD iOS Pipelines** | Automated iOS deployment pipelines using Fastlane & GitHub Actions |
 
@@ -33,13 +33,13 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift&theme=light" height="40" />
-  <img src="https://skillicons.dev/icons?i=swiftui&theme=light" height="40" />
-  <img src="https://skillicons.dev/icons?i=python&theme=light" height="40" />
-  <img src="https://skillicons.dev/icons?i=xcode&theme=light" height="40" />
-  <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40" />
-  <img src="https://skillicons.dev/icons?i=github&theme=light" height="40" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="40" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
