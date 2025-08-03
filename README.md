@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Rakesh Yadav
 
-<!--
-**RakeshYadavGit/RakeshYadavGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 iOS Developer | 🧠 Machine Learning Enthusiast | 💻 Swift & Python Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- 🔧 FuelEfficiencyPreditor – AI-based fuel prediction app using CoreML
+- 📱 DFEBaseApp – Dynamic form engine powered by SwiftUI
+
+---
+
+### 📈 GitHub Stats
+![Rakesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakeshYadavGit&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rakeshyadav)](https://linkedin.com/in/rakeshyadav)
